@@ -1,0 +1,8 @@
+flask
+gunicorn
+requests
+psutil
+pyjwt
+pytz
+aiohttp
+urllib3
